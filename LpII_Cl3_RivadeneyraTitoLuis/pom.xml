@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.Proyecto.spring</groupId>
-	<artifactId>LpII_Cl3_RivadeneyraTitoLuis</artifactId>
+	<artifactId>LpII_Cl3_RivadeneyraLuis</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>LpII_Cl3_RivadeneyraTitoLuis</name>
+	<name>LpII_Cl3_RivadeneyraLuis</name>
 	<description>ProyectoSpring-Cl3</description>
 	<url/>
 	<licenses>
